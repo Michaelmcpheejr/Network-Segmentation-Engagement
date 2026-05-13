@@ -1,7 +1,7 @@
 # Network Segmentation Engagement
 
 ## Overview
-This engagement simulates a real-world network segmentation assessment performed on a multi-segment enterprise environment. The objective was to evaluate the effectiveness of segmentation controls, identify potential lateral movement risks, and provide actionable remediation guidance.
+This engagement demostrates a network segmentation assessment performed on a multi-segment enterprise environment. The objective was to evaluate the effectiveness of segmentation controls, identify potential lateral movement risks, and provide actionable remediation guidance.
 
 ## Environment
 - Core Switch (SW1)
